@@ -1,4 +1,4 @@
-# easyrider15
+# easyrider
 
 A new Flutter project.
 
